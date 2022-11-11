@@ -31,3 +31,4 @@ Internal Link
 | Sandip     | Patel     |
 
 
+To delete the file click ![](/Demo2/assets/images/delete.png "Delete Icon")
