@@ -25,7 +25,6 @@ External Link
 Internal Link
 [Demo](#Heading-6)
 
-Table
 | First Name | Last Name |
 |------------|-----------|
 | Gunjan     | Kabra     |
